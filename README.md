@@ -1,5 +1,5 @@
 
-# Olá! Sou Guilherme Oliviera
+# 👋Olá! Sou Guilherme Oliviera
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&layout=compact)
