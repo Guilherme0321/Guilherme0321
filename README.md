@@ -1,7 +1,7 @@
 
 # 👋Olá! Sou Guilherme Oliviera
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&theme=dracula)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=10&layout=compact)
 ## Tecnologias que uso no meu dia
 <div style="display: inline-block">
