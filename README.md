@@ -2,7 +2,7 @@
 # 👋Olá! Sou Guilherme Oliviera
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=8&layout=compact)
 ## Tecnologias que uso no meu dia
 <div style="display: inline-block">
     <!--<img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
