@@ -23,4 +23,4 @@ I've been learning to code for 1 year, after gaining entry into the Faculty of C
 
 <a href="http://www.github.com/Guilherme0321"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guilherme0321's GitHub stats" /></a>
 
-<a href="https://github.com/Guilherme0321" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Guilherme0321" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%8%Languages" alt="Top Languages" /></a>
