@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been learning to code for 1 year, after gaining entry into the Faculty of Computer Science. I started with C language, and I plan to become a backend developer.
 
 * 🧠  I'm learning a new framework or other Technologies
-* 
+
 ### Badges
 
 <b>My GitHub Stats</b>
