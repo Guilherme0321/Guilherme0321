@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guilherme Oliveira
 ==========================================================================================================================================
 
+I've been learning to code for 1 year, after gaining entry into the Faculty of Computer Science. I started with C language, and I plan to become a backend developer.
+
+* 🧠  I'm learning a new framework or other Technologies
+* 
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -10,10 +14,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://streak-stats.demolab.com?user=Guilherme0321&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme0321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-I've been learning to code for 1 year, after gaining entry into the Faculty of Computer Science. I started with C language, and I plan to become a backend developer.
-
-* 🧠  I'm learning a new framework or other Technologies
 
 ### Skills
 
@@ -44,7 +44,3 @@ I've been learning to code for 1 year, after gaining entry into the Faculty of C
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Guilherme0321/Guilherme0321/output/snake.svg" alt="Snake animation" />
