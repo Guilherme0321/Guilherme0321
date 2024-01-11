@@ -40,7 +40,7 @@ I've been learning to code for 1 year, after gaining entry into the Faculty of C
 ### Socials
 
 <div align="left">
-  <a href="linkedin.com/in/guilherme-oliveira-b79171275" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-oliveira-b79171275" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
