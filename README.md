@@ -10,9 +10,9 @@ I've been learning to code for 1 year, after gaining entry into the Faculty of C
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme0321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Guilherme0321&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme0321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=true" height="150" alt="languages graph"  />
+    <a href="http://www.github.com/Guilherme0321"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=0891b2&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="Guilherme0321's GitHub stats"  height="200" /></a>
+    <a href="http://www.github.com/Guilherme0321"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme0321&stroke=0891b2&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" height="200" /></a>
+    <a href="https://github.com/Guilherme0321" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=10&title_color=ec4899&text_color=0891b2&icon_color=3382ed&bg_color=0f172a&layout=compact&hide_border=true&locale=en&custom_title=Top%8%Languages" height="200" alt="Top Languages" /></a>
 </div>
 
 ### Skills
