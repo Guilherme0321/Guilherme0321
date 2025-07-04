@@ -6,9 +6,9 @@
 
 ## About Me
 
-I am a Computer Science student with over 1 year of programming experience.  
-I started with C and have since expanded my skills to backend development and artificial intelligence.  
-Currently, I am focused on backend technologies, AI frameworks like LangChain, and software engineering best practices.  
+I am a Computer Science student with over 1 year of programming experience.  
+I started with C and have since expanded my skills to backend development and artificial intelligence.  
+Currently, I am focused on backend technologies, AI frameworks like LangChain, and software engineering best practices.  
 I enjoy learning new frameworks and technologies to keep growing as a developer.
 
 ---
@@ -16,17 +16,17 @@ I enjoy learning new frameworks and technologies to keep growing as a developer.
 ## 🚀 Skills & Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />
 </div>
 
 ---
@@ -44,15 +44,15 @@ I enjoy learning new frameworks and technologies to keep growing as a developer.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Guilherme0321">
-    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&count_private=true&title_color=ec4899&text_color=0891b2&icon_color=3382ed&bg_color=0f172a&hide_border=true" height="180" alt="Guilherme's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Guilherme0321">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme0321&stroke=0891b2&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" height="180" />
-  </a>
-  <a href="https://github.com/Guilherme0321">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=8&title_color=ec4899&text_color=0891b2&icon_color=3382ed&bg_color=0f172a&layout=compact&hide_border=true&locale=en&custom_title=Top%20Languages" height="180" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/Guilherme0321">
+    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme0321&show_icons=true&count_private=true&title_color=ec4899&text_color=0891b2&icon_color=3382ed&bg_color=0f172a&hide_border=true" height="180" alt="Guilherme's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Guilherme0321">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme0321&stroke=0891b2&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" height="180" />
+  </a>
+  <a href="https://github.com/Guilherme0321">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0321&langs_count=8&title_color=ec4899&text_color=0891b2&icon_color=3382ed&bg_color=0f172a&layout=compact&hide_border=true&locale=en&custom_title=Top%20Languages" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -65,9 +65,8 @@ I enjoy learning new frameworks and technologies to keep growing as a developer.
 
 ## 🎯 Objective
 
-I am looking for internship or junior developer opportunities focused on backend development and AI, where I can apply my skills and continue learning in a collaborative and innovative environment.
+I am looking for internship or junior developer opportunities focused on **software development** and AI, where I can apply my skills and continue learning in a collaborative and innovative environment.
 
 ---
 
 *Thank you for visiting my profile! Feel free to reach out.* 😊
-
